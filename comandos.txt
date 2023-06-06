@@ -1,0 +1,415 @@
+$ history
+    1  git--versio
+    2  git--version
+    3  git --version
+    4  git config --global user.name
+    5  git config --global user.name Ana Machado
+    6  git config --global user.email anamachadomesa@gmail.com
+    7  gir config --list
+    8  git config --list
+    9  git config user.name
+   10  git config --user.name "Ana Machado"
+   11  git help
+   12  help
+   13  cear
+   14  clear
+   15  git --version
+   16  git config --global user.name Ana Machado
+   17  git config --global user.email anamachadomesa@gmail.com
+   18  gift config --list
+   19  git config --list
+   20  git config user.name
+   21  git config --global user.name "Ana Machado"
+   22  git config --global user.name "Ana Machado"
+   23  git config user.name
+   24  git help config
+   25  namesqs
+   26  help
+   27  dir
+   28  cd
+   29  cd "Entrega"
+   30  cd "Python"
+   31  cd "python"
+   32  cd "Imagenes"
+   33  cd ..
+   34  clear
+   35  mkdir amo_al_meme
+   36  dir
+   37  git init
+   38  git add
+   39  git int
+   40  git init
+   41  git add
+   42    reset
+   43  git init
+   44  git add
+   45  git add .
+   46  git commit -m "Agrego el html y el css"
+   47  git remote add origin https://github.com/AnaaMachado/Desafio-Clase10. git
+   48  git remote add origin https://github.com/AnaaMachado/Desafio-Clase10. git
+   49  git push
+   50  https://github.com/AnaaMachado/Desafio-Clase10.git~
+   51  git status
+   52  git add home.html
+   53  git add sty_home
+   54  git add sty_home.css
+   55  git status
+   56  git commit -m "Cree home.html y hoja css"
+   57  git add home.html
+   58  git add home
+   59  git status
+   60  git status
+   61  git add optica_home.html
+   62  git status
+   63  git push
+   64  git push master
+   65  git push --set-upstream master master
+   66  git remote add origin https://github.com/AnaaMachado/Desafio-Clase10. git
+   67  git push
+   68  git push name
+   69  git push --set-upstream name master
+   70  status
+   71  git status
+   72  git remote
+   73  git status
+   74  git push
+   75  git push name
+   76  git push -u origen principal
+   77  git add README.md
+   78  echo "# Desafio-Clase10" >> README.md
+   79  git init
+   80  git add README.md
+   81  git commit -m "first commit"
+   82  git branch -M main
+   83  git remote add origin https://github.com/AnaaMachado/Desafio-Clase10. git
+   84   git push -u origen principal
+   85  git push
+   86  git push name
+   87   git push --set-upstream name main
+   88  git clone https://github.com/AnaaMachado/Desafio-Clase10. git
+   89  git push
+   90  git puch name
+   91  git add optica_home.html
+   92  git status
+   93  git add sty_home.css
+   94  git status
+   95  git push
+   96  git push name
+   97  git push --set-upstream name main
+   98  git remote add origin https://github.com/AnaaMachado/Desafio-Clase10. git
+   99  git init
+  100  git add .
+  101  git commit -m "agrego optica_home.html , sty_home.css y carpeta imagenes"
+  102  git remote add origen https://github.com/AnaaMachado/Entrega.git
+  103  git push
+  104  git push --set-upstream origen master
+  105  git init
+  106  git add.
+  107  git add
+  108  git add "agrego carpeta css , carpeta js, optica_home.html y sty_home.css"
+  109  reset
+  110  git status
+  111  git add.
+  112  git status
+  113  git add .
+  114  git commit -m "agrego archivos, carpetas de bootstrap y del index"
+  115  git remote add origin https://github.com/AnaaMachado/Desafio-4. git
+  116  https://github.com/AnaaMachado/Desafio-4.git
+  117  git remote add origin https://github.com/AnaaMachado/Desafio-4.git
+  118  git push
+  119  git push --set-upstream origin master
+  120  npm init
+  121  npm install -D node-sass nodemon
+  122  npm run watch-css
+  123  npm run watch-css
+  124  npm run watch-css
+  125  npm init
+  126  npm install -D node-sass nodemon
+  127  npm init
+  128  npm install -D node-sass nodemon
+  129  npm run watch-css
+  130  npm run watch-css
+  131  npm run watch-CSSnpm
+  132  npm init
+  133  npm install -D node-sass nodemon
+  134  npm run watch-css
+  135  npm run watch-css
+  136  npm init
+  137  npm install -D node-sass nodemon
+  138  npm run watch-css
+  139  npm run watch-css
+  140  init npm
+  141  npm init
+  142  npm install -D node-sass
+  143  npm run watch-css
+  144  npm run watch-css
+  145  npm run watch-css
+  146  npm run wach-css
+  147  npm run watch-css
+  148  npm run watch-css
+  149  npm run watch-css
+  150  npm run watch-css
+  151  npm run watch-css
+  152  npm run watch-css
+  153  p/
+  154  12q
+  155  21
+  156  pwd
+  157  cd
+  158  ls
+  159  clear
+  160  cd hola
+  161  ls
+  162  clear
+  163  mkdir meme
+  164  cd meme
+  165  ls
+  166  touch meme.py
+  167  ls
+  168  cd
+  169  cd meme
+  170  xs ,,
+  171  cd ..
+  172  master
+  173  mkdiv
+  174  kpkwpdkq
+  175  nano nuevo.txt
+  176  ./Clase3Mesa1.sh
+  177  nano Clase3Mesa1.sh
+  178  git --version
+  179  git init
+  180  pwd
+  181  git config user.name
+  182  git config
+  183  git config user.name
+  184  git user.email
+  185  git config user.emil
+  186  reset
+  187  git init
+  188  ls
+  189  ls -a
+  190  git config user. name "AnaaMachado"
+  191  git config user.name "AnaaMachado"
+  192  git config user.email "anamachadomesa@gmail.com"
+  193  git config --global user.name "AnaaMachado"
+  194  pwd
+  195  mkdir camada4
+  196  CD
+  197  cd
+  198  pwd
+  199  cd Desktop
+  200  mkdir Ecommerce
+  201  cd Ecommerce
+  202  touch app.js
+  203  touch config.js
+  204  mkdir db
+  205  git init
+  206  git add .
+  207  git commit -m "Primer Commit"
+  208  ls -a
+  209  mkdir informes
+  210  cd informes
+  211  touch informeAnual.xls
+  212  ls
+  213  mkdir auditoria
+  214  touch auditoria.xls
+  215  touch reporteConsolidado.xls
+  216  ls
+  217  mv auditoria.xls auditoria/
+  218  cd auditoria
+  219  ls
+  220  clear
+  221  ..cd
+  222  .cd
+  223  help
+  224  clar
+  225  clare
+  226  cd..
+  227  cd.
+  228  pwd
+  229  cd /c/Users/Ana/Desktop
+  230  mkdir Ecommerce
+  231  mkdir Ecommerce
+  232  touch app.js config.js
+  233  mkdir db
+  234  clar
+  235  clear
+  236  pwd
+  237  mkdir Mochila_Machado_Ana
+  238  cd Mochila_Machado_Ana
+  239  mkdir Entrega1 Entrega3 Entrega4 Entrega5 Entrega6 Git-Github
+  240  touch Entrega1/Readme.md Entrega3/Readme.md Entrega4/Readme.md Entrega5/Readme.md Entrega6/Readme.md Git-Github/Readme.md
+  241  cd . .
+  242  cd -Desktop
+  243  cd. .
+  244  cd..
+  245  cd. .
+  246  cd . .
+  247  cd ..
+  248  mkdir carepta
+  249  cd carpeta
+  250  mkdir ooo
+  251  cd ooo
+  252  git init
+  253  touch app.js
+  254  git status
+  255  git add app.js
+  256  git status
+  257  cd .
+  258  cd ..
+  259  mkadir mercadoAbierto
+  260  mkdir mercadoAbierto
+  261  cd mercadoAbierto
+  262  git init
+  263  git status
+  264  git add productos.js
+  265  git status
+  266  git commit -m "mi primer commit"
+  267  git status
+  268  git clone https://github.com/AnaaMachado/Clase5Trabajo.git
+  269  cd Clase5Trabajo
+  270  cd ..
+  271  cd mercadoAbierto
+  272  touch app.js
+  273  git status
+  274  git add app.js
+  275  git status
+  276  git commit -m "mi primer commit"
+  277  git status
+  278  git push origin main
+  279  git push origin master
+  280  git push origin main
+  281  git status
+  282  clear
+  283  cd ..
+  284  cd Mochila_Machado_Ana
+  285  git init
+  286  git user.name AnaaMachado
+  287  git config user.name AnaaMachado
+  288  git config email.name anamachadomesa@gmail.com
+  289  ls -a
+  290  git remote add origin https://github.com/AnaaMachado/Mochila_Machado_Ana.git
+  291  git add .
+  292  git commit -m "primer commit, subiendo las carpetas"
+  293  git push origin main
+  294  mkdir DH
+  295  cd DH
+  296  mkdir Peliculas
+  297  mkdir Infantiles Accion Terror Comedia Romanticas
+  298  cd Peliculas
+  299  mkdir Infantiles Accion Terror Comedia Romanticas
+  300  cd Infantiles
+  301  touch Intenzamente.txt El
+  302  mr el
+  303  touch Intenzamente.txt ElJuegoDelMiedo.xsl RapidoYFurioso.pdf Titanic.jps
+  304  cd ..
+  305  cd Accion
+  306  touch SmoothCeiminal.txt DiarioDeUnaPasion.js ElHexorcista.xsl Cars.jps
+  307  cd ..
+  308  cd Terror
+  309  touch LaDamayElBagavundo.png YoAntesDeTi.xls QuePasoAyer.pdf WeWillRockYou.js
+  310  cd ..
+  311  cd Comedia
+  312  touch Madagaskar.js OrgulloYPrejuicio.txt IT.xls MisionImposible.png
+  313  cd ..
+  314  cd Romantica
+  315  cd Romanticas
+  316  touch Pocahontas.jpg Annabelle.js LosVengadores.js LaMascara.js
+  317  ls -R
+  318  cd ..
+  319  cd ..
+  320  ls -R
+  321  mv DH Entrega1
+  322  git mv DH Entrega1
+  323  cd .
+  324  cd ..
+  325  mv DH C:\Users\Ana\Desktop\Mochila_Machado_Ana\Entrega1
+  326  git mv DH C:\Users\Ana\Desktop\Mochila_Machado_Ana\Entrega1
+  327  mv C:\Users\Ana\Desktop\DH C:\Users\Ana\Desktop\Mochila_Machado_Ana\Entrega1
+  328  mv DH/C:\Users\Ana\Desktop\DH Entrega1/C:\Users\Ana\Desktop\Mochila_Machado_Ana\Entrega1
+  329  mv C:\Users\Ana\Desktop\DH
+  330  mv C:\Users\Ana\Desktop\DH C:\Users\Ana\Desktop\Mochila_Machado_Ana\Entrega1
+  331  cd
+  332  cd C:\Users\Ana\Desktop\Mochila_Machado_Ana\Entrega1
+  333  pwa
+  334  pwd
+  335  cd Desktop
+  336  cd Mochila_Machado_Ana
+  337  cd Entrega1
+  338  git add .
+  339  git status
+  340  git add .
+  341  git status
+  342  git commit -m "Agregue le entrega1"
+  343  git pull origin main
+  344  git push origin main
+  345  git branch
+  346  git branch trabajo_github
+  347  git branch
+  348  git checkout trabajo_github
+  349  cd ..
+  350  cd Git-Github
+  351  touch cheatsheet.txt
+  352  none cheatsheet.txt
+  353  nano cheatsheet.txt
+  354  git add .
+  355  clare
+  356  clear
+  357  git add .
+  358  git commit -m "Entrega tarea Git-hub"
+  359  git status
+  360  git push origin main
+  361  git push origin trabajo_github
+  362  mkadir arroz touch papa
+  363  mkdir papa touch pera
+  364  git init
+  365  git config user.name "AnaaMachado"
+  366  git config user.email "anamachadomesa@gmail.com"
+  367  git remote add origin https://github.com/AnaaMachado/20230605-AnaMachado. git
+  368  touch comandos.txt main.js index.html
+  369  git commit -m "commit 01 AnaMachado"
+  370  git add .
+  371  git commit -m "commit 02 AnaMachado subiendo archivos al repo. remoto"
+  372  git push origin main
+  373  git push origin main
+  374  git push origin main
+  375  git remote add origin https://github.com/AnaaMachado/20230605-AnaMachado. git
+  376  git remote add origin https://github.com/AnaaMachado/20230605-AnaMachado.git
+  377  clear
+  378  git commit -m "commit 01 AnaMachado"
+  379  git add .
+  380  git commit -m "commit 02 AnaMachado subiendo archivos al repo. remoto"
+  381  git push origin main
+  382  git init
+  383  git config user.name "AnaaMachado"
+  384  git config user.email "anamachadomesa@gmail.com"
+  385  git remote add origin https://github.com/AnaaMachado/20230605-AnaMachado.git
+  386  git status
+  387  touch comandos.txt main.js index.html
+  388  git commit -m "commit 01 AnaMachado"
+  389  git add .
+  390  git commit -m "commit 02 AnaMachado, subiendo archivos al repo remoto"
+  391  git status
+  392  git push origin main
+  393  git branch feature
+  394  git checkout feature
+  395  mkdir Hardware Software SeguridadInformatica
+  396  touch resumen.txt/Hardware
+  397  cd Hardware
+  398  touch resumen.txt
+  399  cd ..
+  400  cd Software
+  401  touch resumen.txt
+  402  cd ..
+  403  cd SeguridadInformatica
+  404  touch resumen.txt
+  405  cd ..
+  406  git add .
+  407  git commit -m "commit 03 AnaMachado, creando y agregando archivos a la rama feature"
+  408  git push origin feature
+  409  git checkout main
+  410  git mv main.js resumenHardware.txt
+  411  git mv index.html resumenSoftware.txt
+  412  nano resumenSoftware.txt
+  413  nano resumenHardware.txt
+  414  history
